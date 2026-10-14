@@ -2,7 +2,7 @@
 
 The stock market dataset contains 300 records and 12 columns. It is used to analyze stock prices, trading volume, daily returns, moving averages, and profit/loss performance across five companies.
 
-The dataset was prepared and analyzed as part of an end-to-end data analytics project using Excel, MySQL, Power Query, and Power BI.
+The dataset was prepared and analyzed as part of an end-to-end data analytics project using Excel, MySQL, Power Query, and Power BI. 
 
 ## 2. Original Columns
 
