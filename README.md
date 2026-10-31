@@ -1,5 +1,5 @@
 # Stock Market Data Analysis
-
+ 
 An end-to-end stock market data analysis project using Excel, MySQL, Power Query, and Power BI to analyze stock prices, trading activity, and profit/loss performance.
 
 ## Project Overview
