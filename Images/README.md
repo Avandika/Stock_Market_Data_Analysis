@@ -63,10 +63,16 @@ The Power BI dashboards provide interactive visualizations and insights into sto
 ## 5. Power BI Data Preparation
 
 ### Power Query Transformation
-Screenshot showing the data transformation process using Power Query.
 
-### Data Model
-Screenshot showing the Power BI data model and table relationships.
+Screenshot showing the data preparation and transformation steps performed using Power Query.
+
+![Power Query Transformation](powerbi/power_query.png)
+
+### Power BI Data Model
+
+Screenshot showing the data model and relationships between tables in Power BI.
+
+![Power BI Data Model](powerbi/powerbi_model.png)
 
 ---
 
