@@ -33,11 +33,16 @@ The Excel dashboard presents key stock market metrics and visualizations develop
 
 ## 3. Excel Pivot Table Analysis
 
-This folder contains Pivot Table screenshots created to analyze:
+This folder contains three Pivot Table screenshots created to analyze stock market performance and trading activity.
 
-- Company-wise stock performance
-- Trading activity
-- Profit and loss distribution
+### Company-wise Closing Price Analysis
+![Closing Price Pivot Table](pivot-tables/closing_price.png)
+
+### Profit and Loss Analysis
+![Profit and Loss Pivot Table](pivot-tables/profit_loss.png)
+
+### Trading Volume Analysis
+![Trading Volume Pivot Table](pivot-tables/volume.png)
 
 ## 4. Power BI Dashboards
 
