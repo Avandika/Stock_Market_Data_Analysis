@@ -30,6 +30,7 @@ Screenshot of the original stock market dataset used for analysis.
 ## 2. Excel Dashboard
 
 The Excel dashboard presents key stock market metrics and visualizations developed using Excel calculations, Pivot Tables, and charts.
+![Excel Dashboard](excel_dashboard.png)
 
 ## 3. Excel Pivot Table Analysis
 
