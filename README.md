@@ -88,6 +88,28 @@ The project focuses on:
 * Profit/Loss distribution
 * Interactive company-level drill-through analysis
 
+
+## Dashboard Previews
+
+### Excel Dashboard
+
+![Excel Dashboard](Images/excel_dashboard.png)
+
+### Power BI Dashboards
+
+#### 1. Executive Dashboard
+![Executive Dashboard](Images/powerbi/executive_dashboard.png)
+
+#### 2. Price and Company Analysis
+![Price and Company Analysis](Images/powerbi/price_company_dashboard.png)
+
+#### 3. Profit and Loss Analysis
+![Profit and Loss Analysis](Images/powerbi/profit_loss_dashboard.png)
+
+#### 4. Company Details and Drill-through
+![Company Details and Drill-through](Images/powerbi/company_drillthrough.png)
+
+
 ## Tools & Technologies
 
 * **Excel** — Data preparation, cleaning, calculations, Pivot Tables, and charts
